@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FlyHedgehogAgain
+- 👋 Hi, I’m Jacob.
 - 🌱 I’m currently learning ... too much
 - 📫 How to reach me ... https://www.jacobstpierre.com
 <!---
