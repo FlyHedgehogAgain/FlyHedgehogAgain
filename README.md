@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jacob.
-- 🌱 I’m currently learning ... too much
+- 🌱 I’m currently trying to learn.
 - 📫 How to reach me ... https://www.jacobstpierre.com
 <!---
 FlyHedgehogAgain/FlyHedgehogAgain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
